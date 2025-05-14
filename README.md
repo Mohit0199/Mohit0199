@@ -1,7 +1,8 @@
 # Hi 👋, I'm Mohit Rathod
 **A Data Scientist | Freelancer | AI Enthusiast  from India**
 
-Email Me 👉 **mohitrathod723@gmail.com** for Freelancing, Collaboration or AI Projects
+**Email Me** 👉 **mohitrathod723@gmail.com** for Freelancing, Collaboration or AI Projects  
+**See My Work & Projects:** [View Portfolio](https://mohit0199.github.io/)
  
 - 🧠 **Skilled In:**
   - Data Analysis & Visualization
@@ -14,7 +15,7 @@ Email Me 👉 **mohitrathod723@gmail.com** for Freelancing, Collaboration or AI 
 - ⚡ **Fun Fact:** I started from scratch and now live and breathe data!
 
 ## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/mohitrathod_999) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-rathod-7991241b5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohitrathod723) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitrathod723@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/insightforge.ai) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohit-rathod-7991241b5) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/mohitrathod723) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:mohitrathod723@gmail.com) 
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Mohit0199/Mohit0199/output/github-snake-dark.svg" />
@@ -28,9 +29,6 @@ Email Me 👉 **mohitrathod723@gmail.com** for Freelancing, Collaboration or AI 
 ![](https://github-readme-stats.vercel.app/api?username=Mohit0199&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=Mohit0199&theme=aura_dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohit0199&theme=aura_dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Mohit0199&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Mohit0199&limit=5&theme=dark&combine_all_yearly_contributions=true)
